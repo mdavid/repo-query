@@ -5,6 +5,9 @@ repo-query
 
 Looks for all of the git, hg, svn, cvs, and bzr repositories on your computer. Tells you if they are in sync or not.
 
+## Status ##
+I have an extremely rudimentary version in `prototype/`
+
 ## Design Ideas ##
 Prototype this in Python. Perhaps add some UI it Qt afterwards. Then, if it needs to be faster, redo in C++. 
 
